@@ -1,2 +1,2 @@
-# simple_ssd
+# Simple_SSD
 NYCU SSD lab
